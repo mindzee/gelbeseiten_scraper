@@ -1,0 +1,1 @@
+<?phpdefine('SCRIPT_ROOT_URL', 'http://' . $_SERVER['SERVER_NAME'] . dirname($_SERVER['REQUEST_URI']) . '/');define('SCRIPT_ROOT_DIR', dirname(__FILE__));define('SITE_URL', 'http://www.gelbeseiten.de');define('SITE_CATEGORIES_URL', SITE_URL . '/yp/quick.yp');?>
